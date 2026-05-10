@@ -1,19 +1,12 @@
-"# mobile-game-1"
-
-#Progress: 5%
+# mobile-game-1
+Progress: 5%
 
 # Simple Tower Defense Game
-
-
-
 A beginner-friendly 2D Tower Defense game made with Unity for Android.
 
 
 
-\## Features
-
-
-
+## Features
 \- Enemy spawning system
 
 \- Towers automatically attack enemies
@@ -30,10 +23,7 @@ A beginner-friendly 2D Tower Defense game made with Unity for Android.
 
 
 
-\## Built With
-
-
-
+## Built With
 \- Unity
 
 \- C#
@@ -42,10 +32,7 @@ A beginner-friendly 2D Tower Defense game made with Unity for Android.
 
 
 
-\## Project Structure
-
-
-
+## Project Structure
 Assets/
 
 ├── Scenes/
@@ -60,11 +47,9 @@ Assets/
 
 
 
-\## Scripts
+## Scripts
 
-
-
-\### Enemy.cs
+### Enemy.cs
 
 Handles:
 
@@ -88,7 +73,7 @@ Handles:
 
 
 
-\### Bullet.cs
+### Bullet.cs
 
 Handles:
 
@@ -100,7 +85,7 @@ Handles:
 
 
 
-\### Spawner.cs
+### Spawner.cs
 
 Handles:
 
@@ -110,7 +95,7 @@ Handles:
 
 
 
-\### GameManager.cs
+### GameManager.cs
 
 Handles:
 
@@ -122,9 +107,7 @@ Handles:
 
 
 
-\## How to Play
-
-
+## How to Play
 
 1\. Place towers on tower spots
 
@@ -136,11 +119,9 @@ Handles:
 
 
 
-\## Controls
+## Controls
 
-
-
-\### Android
+### Android
 
 \- Tap to place towers
 
@@ -148,16 +129,13 @@ Handles:
 
 
 
-\### PC
+### PC
 
 \- Mouse click interaction
 
 
 
-\## Installation
-
-
-
+## Installation
 1\. Clone the repository
 
 
