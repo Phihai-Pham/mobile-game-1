@@ -1,5 +1,6 @@
 # mobile-game-1
-Progress: 5%
+# Progress:
+- 5/10/2026: Start the project.
 
 # Simple Tower Defense Game
 A beginner-friendly 2D Tower Defense game made with Unity for Android.
